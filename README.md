@@ -1,8 +1,11 @@
 Welcome to Gabe's Site!
 Thanks for visiting.
 
-### Background Info
-I wanted to have a site where I could show off my achievements to myself so I can reflect, so here's my solution. To any random GitHub users, there's nothing interesting here, so this isn't what youre looking for.
+## <span style="color:dodgerblue"><u>Background Info</u></span>
+I wanted to have a site where I could show off my achievements to myself so I can reflect, so here's my solution. To any random GitHub users, there's nothing interesting here. I just need this repo to host the site, so this isn't what youre looking for.
+
+## [Bio](bio)
+About me :)
 
 ## [Projects](/Projects)
 Click this link to see Gabe's Projects, organized by Course.
